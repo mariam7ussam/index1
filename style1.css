@@ -1,0 +1,60 @@
+body{
+    background-color:#96e3fd;
+}
+h2{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+
+    text-align: center;
+}
+#no{
+    display: inline;
+    text-align: center;
+    justify-content: center;
+}
+#yes{
+    display: inline;
+    text-align: center;
+}
+button {
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+  background-color:#F3E5AB;
+    padding: 15px 40px;
+    color: #ffffff;
+    font-size: 1.25rem;
+    cursor: pointer;
+    transition: all 150ms ease-in-out;
+    
+}
+p{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+text-transform: capitalize;
+text-align: center;
+font-size: 30px;
+}
+fieldset
+{
+  background-color:#eeeeee;
+  max-width:500px;
+  padding:16px;	
+
+}
+
+.h2_headline{
+
+text-align: center;
+text-decoration: solid;
+text-transform: capitalize;
+font-size: xx-large;
+
+
+}
+.div{
+
+    text-align: center;
+}
